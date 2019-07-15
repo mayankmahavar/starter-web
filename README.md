@@ -10,7 +10,13 @@ Sample website with plenty of files for demos
 
 Sample Deployment project
 
+## How to contribute
+
+please fork this repository and add some comments into it.
+
 ## Introduction
 
 ## Copyright
 Copyright Added.
+
+
