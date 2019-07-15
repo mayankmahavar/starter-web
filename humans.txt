@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    mayank mayank@gmail.com 
 
 # THANKS
 
